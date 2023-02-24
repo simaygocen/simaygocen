@@ -1,4 +1,4 @@
-<img align="center" width="700" height="300" src="https://i.ytimg.com/vi/ZKQab0k8hr4/maxresdefault.jpg">
+<img align="center" width="800" height="300" src="https://i.ytimg.com/vi/ZKQab0k8hr4/maxresdefault.jpg">
 
 <h1 align="center">Hi 👋, I'm Simay Göçen</h1>
 <h3 align="center">A Computer Engineering Student in Dokuz Eylül University . I mostly develop myself on Backend development, Mobile App Development, Web3 technologies with Blockchain infrastructure.</h3>
