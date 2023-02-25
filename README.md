@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Realtime Chat App with Flutter+Firebase**
 
-- 🌱 I’m currently learning **NodeJS Loopback FrameWork and Flutter,React Native**
+- 🌱 I’m currently learning **NodeJS Loopback FrameWork,TypeScript,Flutter,React Native**
 
 - 👨‍💻 All of my projects are available at my Github Repository
 
