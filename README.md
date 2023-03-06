@@ -4,7 +4,7 @@
 <h3 align="center">A Computer Engineering Student in Dokuz Eylül University . I mostly develop myself on Backend development, Mobile App Development, Web3 technologies with Blockchain infrastructure.</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
-- 🔭 I’m currently working on **Airbnb Clone App with AWS BackEnd**
+- 🔭 I’m currently working on **Spotify Clone App with AWS BackEnd**
 
 - 🌱 I’m currently learning **NodeJS Loopback FrameWork,TypeScript,Flutter,React Native,.NET MVC**
 
