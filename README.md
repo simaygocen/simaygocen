@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **Spotify Clone App with AWS BackEnd**
 
+- 🔭 I’m currently working on **UnitTest with Python FastAPI Pytest MongoDB**
+
 - 🌱 I’m currently learning **NodeJS Loopback FrameWork,TypeScript,Flutter,React Native,.NET MVC**
 
 - 👨‍💻 All of my projects are available at my Github Repository
