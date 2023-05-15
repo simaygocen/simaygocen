@@ -1,10 +1,10 @@
 <img align="center" width="850" height="325" src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 
 <h1 align="center">Hi 👋, I'm Simay Göçen</h1>
-<h3 align="center">A Computer Engineering Student in Dokuz Eylül University . I mostly develop myself on Backend development and Data Fields.</h3>
+<h3 align="center">A Computer Engineering Student in Dokuz Eylül University . I mostly develop myself on Webdevelopment and Data Fields.</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
-- 🔭 I’m currently learning on **Data Fields**
+- 🔭 I’m currently learning on **Data Fields(Numpy,Pandas,Machine Learning Algorithms)**
 
 - 🔭 I’m currently working on **UnitTest with Python FastAPI Pytest MongoDB**
 
