@@ -1,7 +1,7 @@
 <img align="center" width="850" height="325" src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 
 <h1 align="center">Hi 👋, I'm Simay Göçen</h1>
-<h3 align="center">Senior Computer Engineering Student in Dokuz Eylül University . I mostly develop myself on Data Analysis and Data Science.</h3>
+<h3 align="center">Senior Computer Engineering Student in Dokuz Eylül University . I mostly develop myself on Data and Business Analysis.</h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
 - 🔭 I’m currently learning on **Data Anaylsis Requirements**
