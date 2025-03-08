@@ -1,7 +1,7 @@
 <img align="center" width="850" height="325" src="https://i.pinimg.com/originals/a9/24/3d/a9243d82d3ad7878192211221b25a18c.gif">
 
 <h1 align="center">Hi 👋, I'm Simay Göçen</h1>
-<h3 align="center">Computer Engineer. I mostly develop myself on Artificial Intelligence and Data Science. </h3>
+<h3 align="center">Computer Engineer</h3>
 <h3 align="center">I mostly develop myself on Artificial Intelligence and Data Science. </h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
