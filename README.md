@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Simay Göçen</h1>
 <h3 align="center">Computer Engineer. I mostly develop myself on Artificial Intelligence and Data Science. </h3>
+<h3 align="center">I mostly develop myself on Artificial Intelligence and Data Science. </h3>
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/bQCHJwgCNuMAAAAM/kitten-cat.gif">
 
 - 🔭 I’m currently learning on **Artifical Intelligence**
